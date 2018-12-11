@@ -5,8 +5,8 @@ Main idea of this project was to create data base which could probably support a
 
 Currently this project is in developing state.
 
-*University: MAI - Moscow Aviation Institute 
-*Program: Bachelor in Computer Science 
-*Faculty: Control Systems, Informatics and Electronics 
-*Group: M30-307Б-16 
-*Subject: Ergonomics of Computer-Aided Systems of Information Processing
+University: MAI - Moscow Aviation Institute </br>
+Program: Bachelor in Computer Science </br>
+Faculty: Control Systems, Informatics and Electronics </br>
+Group: M30-307Б-16 </br>
+Subject: Ergonomics of Computer-Aided Systems of Information Processing </br>
