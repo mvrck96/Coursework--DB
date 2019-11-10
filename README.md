@@ -7,6 +7,7 @@ Main idea of this project was to create data base which could probably support a
 Task done, mark obtaind.
 
 University: MAI - Moscow Aviation Institute 
+
 Program: Bachelor in Computer Science </br>
 Faculty: Control Systems, Informatics and Electronics </br>
 Group: M30-307Б-16 </br>
